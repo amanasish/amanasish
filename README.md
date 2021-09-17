@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on some cool Open Source Projects
 - 📫 How to reach me :- <br>
 mail :- amanasisgupta@gmail.com <br>
-insta :- @amanasish <br>
 LinkedIn :- https://www.linkedin.com/in/aman-asish-gupta-085b57215
 
 <!---
