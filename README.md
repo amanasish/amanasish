@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aman Asish Gupta
-- 👀 I am a hardcore robotics enthusiast
+- 👀 I am a hardcore Robotics Enthusiast
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on some cool Open Source Projects
 - 📫 How to reach me :- <br>
