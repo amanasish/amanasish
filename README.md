@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amanasish
+- 👋 Hi, I’m Aman Asish Gupta
 - 👀 I am a hardcore robotics enthusiast
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on some cool Open Source Projects
