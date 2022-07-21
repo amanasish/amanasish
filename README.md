@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aman Asish Gupta
 - 👀 I am a hardcore Robotics Enthusiast
-- 🌱 I’m currently learning Machine learning
+- 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on some cool Open Source Projects
 - 📫 How to reach me :- <br>
 mail :- amanasisgupta@gmail.com <br>
