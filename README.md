@@ -1,5 +1,13 @@
 
-<h1 align="center"><img src="https://media.tenor.com/iz-i2e-4s5EAAAAj/devil-smiley.gif" width="40"> &nbsp आग (AAG) से प्रेरित, कोड द्वारा संचालित &nbsp<img src="https://media.tenor.com/iz-i2e-4s5EAAAAj/devil-smiley.gif" width="40"></h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="40">
+  &nbsp आग (AAG) से प्रेरित, कोड द्वारा संचालित &nbsp
+  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="40">
+</h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="amanasish" width="100%" height="300px">
+</div>
 <img width="100%" height="300px" src="https://media1.tenor.com/m/54mjjpuowCgAAAAC/ninjala-jane.gif" alt="amanasish">
 <img src="https://64.media.tumblr.com/e6242c32ed5a525382a7f314f302a90d/515b92357c345793-32/s500x750/22cb51f2c2604415815d0b03cd0364f2f1c79d1b.gif" height="70" width="100%">
 
