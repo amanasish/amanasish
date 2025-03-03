@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=00FFFF&center=true&vCenter=true&width=600&lines=%F0%9F%91%A8%E2%80%8D%EF%B8%8F+Aman+Asish+Gupta;Galactic+Code+Pioneer" alt="Aman Asish Gupta Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=00FFFF¢er=true&vCenter=true&width=600&lines=%F0%9F%91%A8%E2%80%8D%EF%B8%8F+Aman+Asish+Gupta;Galactic+Code+Pioneer" alt="Aman Asish Gupta Typing" />
 </p>
 
 ### *Voyaging Through the Cosmic Code Nebula*  
@@ -47,23 +47,58 @@ I’m a **Robotics Stargazer** and **Interstellar Architect**, weaving constella
   <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Hyperdrive%20Engaged-FF00FF?style=for-the-badge&labelColor=1A1A1A&color=00CED1" alt="Hyperdrive" />
 </p>
 
-| Project              | Description                                  | Technologies            | Link                                              |
-|----------------------|----------------------------------------------|-------------------------|---------------------------------------------------|
-| **Portfolio**        | A starbase for my digital legacy            | HTML, CSS, JavaScript   | [View](https://github.com/amanasish/Portfolio)          |
-| **Tasks**            | Task scheduler for interstellar missions    | React, Node.js          | [View](https://github.com/amanasish/Tasks)              |
-| **TIC-TAC-TOE-AAG**  | A game orbiting the fun quadrant           | JavaScript, HTML, CSS   | [View](https://github.com/amanasish/TIC-TAC-TOE-AAG)    |
-| **Email-Automation** | Ansible for cosmic communications           | Node.js, JavaScript     | [View](https://github.com/amanasish/Email-Automation)   |
-| **Heart-Attack-ML-** | AI sentinel for galactic health             | Python, Machine Learning| [View](https://github.com/amanasish/Heart-Attack-ML-)   |
+<table style="width: 100%; border-collapse: collapse; margin: 0 auto;">
+  <thead>
+    <tr style="background-color: #0A0A0A; color: #FFFFFF;">
+      <th style="padding: 8px; border: 1px solid #1A1A1A; text-align: left;">Project</th>
+      <th style="padding: 8px; border: 1px solid #1A1A1A; text-align: left;">Description</th>
+      <th style="padding: 8px; border: 1px solid #1A1A1A; text-align: left;">Technologies</th>
+      <th style="padding: 8px; border: 1px solid #1A1A1A; text-align: left;">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color: #0A0A0A; color: #FFFFFF;">
+      <td style="padding: 8px; border: 1px solid #1A1A1A;">Portfolio</td>
+      <td style="padding: 8px; border: 1px solid #1A1A1A;">Starbase for my digital legacy</td>
+      <td style="padding: 8px; border: 1px solid #1A1A1A;">HTML, CSS, JavaScript</td>
+      <td style="padding: 8px; border: 1px solid #1A1A1A;">(https://github.com/amanasish/Portfolio)</td>
+    </tr>
+    <tr style="background-color: #0A0A0A; color: #FFFFFF;">
+      <td style="padding: 8px; border: 1px solid #1A1A1A;">Tasks</td>
+      <td style="padding: 8px; border: 1px solid #1A1A1A;">Scheduler for interstellar missions</td>
+      <td style="padding: 8px; border: 1px solid #1A1A1A;">React, Node.js</td>
+      <td style="padding: 8px; border: 1px solid #1A1A1A;">(https://github.com/amanasish/Tasks)</td>
+    </tr>
+    <tr style="background-color: #0A0A0A; color: #FFFFFF;">
+      <td style="padding: 8px; border: 1px solid #1A1A1A;">TIC-TAC-TOE-AAG</td>
+      <td style="padding: 8px; border: 1px solid #1A1A1A;">Game orbiting the fun quadrant</td>
+      <td style="padding: 8px; border: 1px solid #1A1A1A;">JavaScript, HTML, CSS</td>
+      <td style="padding: 8px; border: 1px solid #1A1A1A;">(https://github.com/amanasish/TIC-TAC-TOE-AAG)</td>
+    </tr>
+    <tr style="background-color: #0A0A0A; color: #FFFFFF;">
+      <td style="padding: 8px; border: 1px solid #1A1A1A;">Email-Automation</td>
+      <td style="padding: 8px; border: 1px solid #1A1A1A;">Ansible for cosmic comms</td>
+      <td style="padding: 8px; border: 1px solid #1A1A1A;">Node.js, JavaScript</td>
+      <td style="padding: 8px; border: 1px solid #1A1A1A;">(https://github.com/amanasish/Email-Automation)</td>
+    </tr>
+    <tr style="background-color: #0A0A0A; color: #FFFFFF;">
+      <td style="padding: 8px; border: 1px solid #1A1A1A;">Heart-Attack-ML-</td>
+      <td style="padding: 8px; border: 1px solid #1A1A1A;">AI sentinel for galactic health</td>
+      <td style="padding: 8px; border: 1px solid #1A1A1A;">Python, Machine Learning</td>
+      <td style="padding: 8px; border: 1px solid #1A1A1A;">(https://github.com/amanasish/Heart-Attack-ML-)</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 ## 🌃 What Propels My Orbit  
 I’m fueled by the enigma of the cosmos—crafting robots to explore alien terrains or apps to navigate the digital ether. Join me in this hypnotic voyage through the stars!  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanasish&show_icons=true&theme=nebula&bg_color=0A0A0A&title_color=00FFFF&text_color=FFFFFF&icon_color=FF69B4&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amanasish&show_icons=true&theme=transparent&bg_color=00000000&title_color=00FFFF&text_color=FFFFFF&icon_color=FF69B4&hide_border=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanasish&layout=compact&theme=nebula&bg_color=0A0A0A&title_color=00FFFF&text_color=FFFFFF&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanasish&layout=compact&theme=transparent&bg_color=00000000&title_color=00FFFF&text_color=FFFFFF&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
